@@ -171,4 +171,4 @@ For this step, send the request and pass the JWT token.
 - **Advanced Features**: Introduce features like ride scheduling, multi-stop trips, and fare estimation.
 
 
-You can copy this content and save it as a `README.md` file in your GitHub repository.
+
